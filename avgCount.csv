@@ -1,0 +1,10 @@
+Key,Avg Time,Avg Count
+man_Serial_DonQuixote.txt,0.33,1.0
+man_Serial_Dracula.txt,0.33,1.0
+man_Serial_MobyDick.txt,0.33,1.0
+man_Parallel_DonQuixote.txt_5,11.0,1.0
+man_Parallel_DonQuixote.txt_10,3.0,1.0
+man_Parallel_Dracula.txt_5,1.33,1.0
+man_Parallel_Dracula.txt_10,2.0,1.0
+man_Parallel_MobyDick.txt_5,1.67,1.0
+man_Parallel_MobyDick.txt_10,2.33,1.0
